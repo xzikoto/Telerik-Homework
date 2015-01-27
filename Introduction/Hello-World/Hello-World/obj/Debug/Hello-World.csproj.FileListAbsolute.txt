@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Hello-World\Hello-World\bin\Debug\Hello-World.exe.config
+C:\Users\User\Desktop\telerik\Hello-World\Hello-World\obj\Debug\Hello-World.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Hello-World\Hello-World\bin\Debug\Hello-World.exe
+C:\Users\User\Desktop\telerik\Hello-World\Hello-World\bin\Debug\Hello-World.pdb
+C:\Users\User\Desktop\telerik\Hello-World\Hello-World\obj\Debug\Hello-World.exe
+C:\Users\User\Desktop\telerik\Hello-World\Hello-World\obj\Debug\Hello-World.pdb

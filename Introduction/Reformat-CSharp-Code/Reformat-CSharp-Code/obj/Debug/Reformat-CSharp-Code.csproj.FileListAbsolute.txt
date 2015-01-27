@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Reformat-CSharp-Code\Reformat-CSharp-Code\bin\Debug\Reformat-CSharp-Code.exe.config
+C:\Users\User\Desktop\telerik\Reformat-CSharp-Code\Reformat-CSharp-Code\bin\Debug\Reformat-CSharp-Code.exe
+C:\Users\User\Desktop\telerik\Reformat-CSharp-Code\Reformat-CSharp-Code\bin\Debug\Reformat-CSharp-Code.pdb
+C:\Users\User\Desktop\telerik\Reformat-CSharp-Code\Reformat-CSharp-Code\obj\Debug\Reformat-CSharp-Code.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Reformat-CSharp-Code\Reformat-CSharp-Code\obj\Debug\Reformat-CSharp-Code.exe
+C:\Users\User\Desktop\telerik\Reformat-CSharp-Code\Reformat-CSharp-Code\obj\Debug\Reformat-CSharp-Code.pdb

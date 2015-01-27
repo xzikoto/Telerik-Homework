@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Print-a-Sequance\Print-a-Sequance\bin\Debug\Print-a-Sequance.exe.config
+C:\Users\User\Desktop\telerik\Print-a-Sequance\Print-a-Sequance\obj\Debug\Print-a-Sequance.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Print-a-Sequance\Print-a-Sequance\bin\Debug\Print-a-Sequance.exe
+C:\Users\User\Desktop\telerik\Print-a-Sequance\Print-a-Sequance\bin\Debug\Print-a-Sequance.pdb
+C:\Users\User\Desktop\telerik\Print-a-Sequance\Print-a-Sequance\obj\Debug\Print-a-Sequance.exe
+C:\Users\User\Desktop\telerik\Print-a-Sequance\Print-a-Sequance\obj\Debug\Print-a-Sequance.pdb

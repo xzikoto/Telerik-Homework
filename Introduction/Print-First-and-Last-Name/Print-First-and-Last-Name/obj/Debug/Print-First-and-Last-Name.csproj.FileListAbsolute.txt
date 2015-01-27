@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Print-First-and-Last-Name\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.exe.config
+C:\Users\User\Desktop\telerik\Print-First-and-Last-Name\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.exe
+C:\Users\User\Desktop\telerik\Print-First-and-Last-Name\Print-First-and-Last-Name\bin\Debug\Print-First-and-Last-Name.pdb
+C:\Users\User\Desktop\telerik\Print-First-and-Last-Name\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Print-First-and-Last-Name\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.exe
+C:\Users\User\Desktop\telerik\Print-First-and-Last-Name\Print-First-and-Last-Name\obj\Debug\Print-First-and-Last-Name.pdb

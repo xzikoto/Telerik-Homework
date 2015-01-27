@@ -1,0 +1,11 @@
+Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. 
+
+phpDesigner - www.phpeditors.com gave phpDesigner a 5 star rating, saying it was a "super fast PHP IDE with many features." To back this up, phpDesigner offers support for PHP debugging and profiling; It also supports all standard web languages, and offers TortoiseSVN support, and live error detection for PHP, HTML, and CSS. A code snippets library and built-in PHP manual for beginners only sweeten this pot.
+
+Dreamweaver CS4 is a great editor for JavaScript, offering code hints and JS framework integration. It offers interesting CSS support: you create CSS rules and Dreamweaver explains how it will fit in with other rules. Then, Live View enables you to preview your coding without leaving the program.
+
+Eclipse is a very powerful IDE, that can do almost all things programming through its plugins. I downloaded Eclipse with the PHP Development Tools, which may be a good idea if you don't already have Eclipse. 
+
+Aptana Studio could be described as Eclipse for web development only. It's available as either a standalone app or as a plug-in for Eclipse, and it claims to be "The Leading IDE for Web App Development." With plug-ins, you can have support PHP, Ruby on Rails, Java, and more. 
+
+Netbeans - This open-source IDE is a sweet deal: whether you're developing in PHP, Ruby on Rails, JavaScript, or something else, you'll find rich editing features, as well as support for FTP and MySQL. At least with PHP, it offers light on-the-go debugging, alerting you to errors as you type.

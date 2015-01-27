@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Print-Long-Sequence\Print-Long-Sequence\bin\Debug\Print-Long-Sequence.exe.config
+C:\Users\User\Desktop\telerik\Print-Long-Sequence\Print-Long-Sequence\bin\Debug\Print-Long-Sequence.exe
+C:\Users\User\Desktop\telerik\Print-Long-Sequence\Print-Long-Sequence\bin\Debug\Print-Long-Sequence.pdb
+C:\Users\User\Desktop\telerik\Print-Long-Sequence\Print-Long-Sequence\obj\Debug\Print-Long-Sequence.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Print-Long-Sequence\Print-Long-Sequence\obj\Debug\Print-Long-Sequence.exe
+C:\Users\User\Desktop\telerik\Print-Long-Sequence\Print-Long-Sequence\obj\Debug\Print-Long-Sequence.pdb

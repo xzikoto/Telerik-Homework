@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Square-Root\Square-Root\bin\Debug\Square-Root.exe.config
+C:\Users\User\Desktop\telerik\Square-Root\Square-Root\bin\Debug\Square-Root.exe
+C:\Users\User\Desktop\telerik\Square-Root\Square-Root\bin\Debug\Square-Root.pdb
+C:\Users\User\Desktop\telerik\Square-Root\Square-Root\obj\Debug\Square-Root.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Square-Root\Square-Root\obj\Debug\Square-Root.exe
+C:\Users\User\Desktop\telerik\Square-Root\Square-Root\obj\Debug\Square-Root.pdb

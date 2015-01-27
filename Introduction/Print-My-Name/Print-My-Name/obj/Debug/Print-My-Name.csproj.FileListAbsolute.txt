@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Print-My-Name\Print-My-Name\bin\Debug\Print-My-Name.exe.config
+C:\Users\User\Desktop\telerik\Print-My-Name\Print-My-Name\bin\Debug\Print-My-Name.exe
+C:\Users\User\Desktop\telerik\Print-My-Name\Print-My-Name\bin\Debug\Print-My-Name.pdb
+C:\Users\User\Desktop\telerik\Print-My-Name\Print-My-Name\obj\Debug\Print-My-Name.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Print-My-Name\Print-My-Name\obj\Debug\Print-My-Name.exe
+C:\Users\User\Desktop\telerik\Print-My-Name\Print-My-Name\obj\Debug\Print-My-Name.pdb

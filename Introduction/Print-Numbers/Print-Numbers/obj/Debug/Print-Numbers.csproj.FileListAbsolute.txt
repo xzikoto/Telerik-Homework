@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Print-Numbers\Print-Numbers\bin\Debug\Print-Numbers.exe.config
+C:\Users\User\Desktop\telerik\Print-Numbers\Print-Numbers\bin\Debug\Print-Numbers.exe
+C:\Users\User\Desktop\telerik\Print-Numbers\Print-Numbers\bin\Debug\Print-Numbers.pdb
+C:\Users\User\Desktop\telerik\Print-Numbers\Print-Numbers\obj\Debug\Print-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Print-Numbers\Print-Numbers\obj\Debug\Print-Numbers.exe
+C:\Users\User\Desktop\telerik\Print-Numbers\Print-Numbers\obj\Debug\Print-Numbers.pdb
