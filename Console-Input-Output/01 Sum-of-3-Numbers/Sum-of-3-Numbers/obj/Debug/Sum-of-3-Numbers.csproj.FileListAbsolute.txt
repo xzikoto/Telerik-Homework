@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Sum-of-3-Numbers\Sum-of-3-Numbers\bin\Debug\Sum-of-3-Numbers.exe.config
+C:\Users\User\Desktop\telerik\Sum-of-3-Numbers\Sum-of-3-Numbers\bin\Debug\Sum-of-3-Numbers.exe
+C:\Users\User\Desktop\telerik\Sum-of-3-Numbers\Sum-of-3-Numbers\bin\Debug\Sum-of-3-Numbers.pdb
+C:\Users\User\Desktop\telerik\Sum-of-3-Numbers\Sum-of-3-Numbers\obj\Debug\Sum-of-3-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Sum-of-3-Numbers\Sum-of-3-Numbers\obj\Debug\Sum-of-3-Numbers.exe
+C:\Users\User\Desktop\telerik\Sum-of-3-Numbers\Sum-of-3-Numbers\obj\Debug\Sum-of-3-Numbers.pdb

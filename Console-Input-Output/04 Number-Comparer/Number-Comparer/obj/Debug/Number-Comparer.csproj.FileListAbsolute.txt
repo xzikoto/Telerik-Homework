@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Number-Comparer\Number-Comparer\bin\Debug\Number-Comparer.exe.config
+C:\Users\User\Desktop\telerik\Number-Comparer\Number-Comparer\bin\Debug\Number-Comparer.exe
+C:\Users\User\Desktop\telerik\Number-Comparer\Number-Comparer\bin\Debug\Number-Comparer.pdb
+C:\Users\User\Desktop\telerik\Number-Comparer\Number-Comparer\obj\Debug\Number-Comparer.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Number-Comparer\Number-Comparer\obj\Debug\Number-Comparer.exe
+C:\Users\User\Desktop\telerik\Number-Comparer\Number-Comparer\obj\Debug\Number-Comparer.pdb

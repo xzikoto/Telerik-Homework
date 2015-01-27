@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\02 Print-Company-Information\02 Print-Company-Information\bin\Debug\02 Print-Company-Information.exe.config
+C:\Users\User\Desktop\telerik\02 Print-Company-Information\02 Print-Company-Information\obj\Debug\02 Print-Company-Information.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\02 Print-Company-Information\02 Print-Company-Information\bin\Debug\02 Print-Company-Information.exe
+C:\Users\User\Desktop\telerik\02 Print-Company-Information\02 Print-Company-Information\bin\Debug\02 Print-Company-Information.pdb
+C:\Users\User\Desktop\telerik\02 Print-Company-Information\02 Print-Company-Information\obj\Debug\02 Print-Company-Information.exe
+C:\Users\User\Desktop\telerik\02 Print-Company-Information\02 Print-Company-Information\obj\Debug\02 Print-Company-Information.pdb

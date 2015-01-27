@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Numbers-in-Interval-Dividable-by-Given-Number\Numbers-in-Interval-Dividable-by-Given-Number\bin\Debug\Numbers-in-Interval-Dividable-by-Given-Number.exe.config
+C:\Users\User\Desktop\telerik\Numbers-in-Interval-Dividable-by-Given-Number\Numbers-in-Interval-Dividable-by-Given-Number\bin\Debug\Numbers-in-Interval-Dividable-by-Given-Number.exe
+C:\Users\User\Desktop\telerik\Numbers-in-Interval-Dividable-by-Given-Number\Numbers-in-Interval-Dividable-by-Given-Number\bin\Debug\Numbers-in-Interval-Dividable-by-Given-Number.pdb
+C:\Users\User\Desktop\telerik\Numbers-in-Interval-Dividable-by-Given-Number\Numbers-in-Interval-Dividable-by-Given-Number\obj\Debug\Numbers-in-Interval-Dividable-by-Given-Number.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Numbers-in-Interval-Dividable-by-Given-Number\Numbers-in-Interval-Dividable-by-Given-Number\obj\Debug\Numbers-in-Interval-Dividable-by-Given-Number.exe
+C:\Users\User\Desktop\telerik\Numbers-in-Interval-Dividable-by-Given-Number\Numbers-in-Interval-Dividable-by-Given-Number\obj\Debug\Numbers-in-Interval-Dividable-by-Given-Number.pdb

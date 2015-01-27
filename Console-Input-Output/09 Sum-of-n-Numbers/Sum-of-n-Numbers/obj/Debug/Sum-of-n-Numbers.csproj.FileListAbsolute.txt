@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Sum-of-n-Numbers\Sum-of-n-Numbers\bin\Debug\Sum-of-n-Numbers.exe.config
+C:\Users\User\Desktop\telerik\Sum-of-n-Numbers\Sum-of-n-Numbers\bin\Debug\Sum-of-n-Numbers.exe
+C:\Users\User\Desktop\telerik\Sum-of-n-Numbers\Sum-of-n-Numbers\bin\Debug\Sum-of-n-Numbers.pdb
+C:\Users\User\Desktop\telerik\Sum-of-n-Numbers\Sum-of-n-Numbers\obj\Debug\Sum-of-n-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Sum-of-n-Numbers\Sum-of-n-Numbers\obj\Debug\Sum-of-n-Numbers.exe
+C:\Users\User\Desktop\telerik\Sum-of-n-Numbers\Sum-of-n-Numbers\obj\Debug\Sum-of-n-Numbers.pdb

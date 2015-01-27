@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Sum-of-5-Numbers\Sum-of-5-Numbers\bin\Debug\Sum-of-5-Numbers.exe.config
+C:\Users\User\Desktop\telerik\Sum-of-5-Numbers\Sum-of-5-Numbers\obj\Debug\Sum-of-5-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Sum-of-5-Numbers\Sum-of-5-Numbers\bin\Debug\Sum-of-5-Numbers.exe
+C:\Users\User\Desktop\telerik\Sum-of-5-Numbers\Sum-of-5-Numbers\bin\Debug\Sum-of-5-Numbers.pdb
+C:\Users\User\Desktop\telerik\Sum-of-5-Numbers\Sum-of-5-Numbers\obj\Debug\Sum-of-5-Numbers.exe
+C:\Users\User\Desktop\telerik\Sum-of-5-Numbers\Sum-of-5-Numbers\obj\Debug\Sum-of-5-Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\telerik\Quadratic-Equation\Quadratic-Equation\bin\Debug\Quadratic-Equation.exe.config
+C:\Users\User\Desktop\telerik\Quadratic-Equation\Quadratic-Equation\bin\Debug\Quadratic-Equation.exe
+C:\Users\User\Desktop\telerik\Quadratic-Equation\Quadratic-Equation\bin\Debug\Quadratic-Equation.pdb
+C:\Users\User\Desktop\telerik\Quadratic-Equation\Quadratic-Equation\obj\Debug\Quadratic-Equation.exe
+C:\Users\User\Desktop\telerik\Quadratic-Equation\Quadratic-Equation\obj\Debug\Quadratic-Equation.pdb

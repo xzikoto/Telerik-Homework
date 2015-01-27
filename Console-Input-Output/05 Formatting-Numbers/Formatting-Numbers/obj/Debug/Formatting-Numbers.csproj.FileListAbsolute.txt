@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Formatting-Numbers\Formatting-Numbers\bin\Debug\Formatting-Numbers.exe.config
+C:\Users\User\Desktop\telerik\Formatting-Numbers\Formatting-Numbers\obj\Debug\Formatting-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Formatting-Numbers\Formatting-Numbers\bin\Debug\Formatting-Numbers.exe
+C:\Users\User\Desktop\telerik\Formatting-Numbers\Formatting-Numbers\bin\Debug\Formatting-Numbers.pdb
+C:\Users\User\Desktop\telerik\Formatting-Numbers\Formatting-Numbers\obj\Debug\Formatting-Numbers.exe
+C:\Users\User\Desktop\telerik\Formatting-Numbers\Formatting-Numbers\obj\Debug\Formatting-Numbers.pdb

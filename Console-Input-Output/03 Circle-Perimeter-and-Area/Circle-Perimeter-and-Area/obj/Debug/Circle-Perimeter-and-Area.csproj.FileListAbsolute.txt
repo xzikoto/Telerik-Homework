@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Circle-Perimeter-and-Area\Circle-Perimeter-and-Area\bin\Debug\Circle-Perimeter-and-Area.exe.config
+C:\Users\User\Desktop\telerik\Circle-Perimeter-and-Area\Circle-Perimeter-and-Area\bin\Debug\Circle-Perimeter-and-Area.exe
+C:\Users\User\Desktop\telerik\Circle-Perimeter-and-Area\Circle-Perimeter-and-Area\bin\Debug\Circle-Perimeter-and-Area.pdb
+C:\Users\User\Desktop\telerik\Circle-Perimeter-and-Area\Circle-Perimeter-and-Area\obj\Debug\Circle-Perimeter-and-Area.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Circle-Perimeter-and-Area\Circle-Perimeter-and-Area\obj\Debug\Circle-Perimeter-and-Area.exe
+C:\Users\User\Desktop\telerik\Circle-Perimeter-and-Area\Circle-Perimeter-and-Area\obj\Debug\Circle-Perimeter-and-Area.pdb

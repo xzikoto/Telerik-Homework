@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Numbers-from-1-to-n\Numbers-from-1-to-n\bin\Debug\Numbers-from-1-to-n.exe.config
+C:\Users\User\Desktop\telerik\Numbers-from-1-to-n\Numbers-from-1-to-n\bin\Debug\Numbers-from-1-to-n.exe
+C:\Users\User\Desktop\telerik\Numbers-from-1-to-n\Numbers-from-1-to-n\bin\Debug\Numbers-from-1-to-n.pdb
+C:\Users\User\Desktop\telerik\Numbers-from-1-to-n\Numbers-from-1-to-n\obj\Debug\Numbers-from-1-to-n.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Numbers-from-1-to-n\Numbers-from-1-to-n\obj\Debug\Numbers-from-1-to-n.exe
+C:\Users\User\Desktop\telerik\Numbers-from-1-to-n\Numbers-from-1-to-n\obj\Debug\Numbers-from-1-to-n.pdb
