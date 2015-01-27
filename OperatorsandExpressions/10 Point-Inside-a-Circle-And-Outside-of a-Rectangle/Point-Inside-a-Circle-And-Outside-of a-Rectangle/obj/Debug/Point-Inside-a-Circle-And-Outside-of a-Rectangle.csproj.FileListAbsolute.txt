@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\telerik\Point-Inside-a-Circle-And-Outside-of a-Rectangle\Point-Inside-a-Circle-And-Outside-of a-Rectangle\bin\Debug\Point-Inside-a-Circle-And-Outside-of a-Rectangle.exe.config
+C:\Users\User\Desktop\telerik\10 Point-Inside-a-Circle-And-Outside-of a-Rectangle\Point-Inside-a-Circle-And-Outside-of a-Rectangle\bin\Debug\Point-Inside-a-Circle-And-Outside-of a-Rectangle.exe.config

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Four-Digit-Number\Four-Digit-Number\bin\Debug\Four-Digit-Number.exe.config
+C:\Users\User\Desktop\telerik\Four-Digit-Number\Four-Digit-Number\bin\Debug\Four-Digit-Number.exe
+C:\Users\User\Desktop\telerik\Four-Digit-Number\Four-Digit-Number\bin\Debug\Four-Digit-Number.pdb
+C:\Users\User\Desktop\telerik\Four-Digit-Number\Four-Digit-Number\obj\Debug\Four-Digit-Number.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Four-Digit-Number\Four-Digit-Number\obj\Debug\Four-Digit-Number.exe
+C:\Users\User\Desktop\telerik\Four-Digit-Number\Four-Digit-Number\obj\Debug\Four-Digit-Number.pdb
+C:\Users\User\Desktop\telerik\06 Four-Digit-Number\Four-Digit-Number\bin\Debug\Four-Digit-Number.exe.config
+C:\Users\User\Desktop\telerik\06 Four-Digit-Number\Four-Digit-Number\obj\Debug\Four-Digit-Number.exe
+C:\Users\User\Desktop\telerik\06 Four-Digit-Number\Four-Digit-Number\obj\Debug\Four-Digit-Number.pdb

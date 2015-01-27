@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\User\Desktop\telerik\Trapezoids\Trapezoids\obj\Debug\Trapezoids.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Trapezoids\Trapezoids\bin\Debug\Trapezoids.exe
+C:\Users\User\Desktop\telerik\Trapezoids\Trapezoids\bin\Debug\Trapezoids.pdb
+C:\Users\User\Desktop\telerik\Trapezoids\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\User\Desktop\telerik\Trapezoids\Trapezoids\obj\Debug\Trapezoids.pdb

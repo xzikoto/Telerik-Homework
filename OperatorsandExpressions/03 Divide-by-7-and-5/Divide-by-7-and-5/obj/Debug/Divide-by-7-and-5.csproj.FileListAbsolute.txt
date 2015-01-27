@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Divide-by-7-and-5\Divide-by-7-and-5\bin\Debug\Divide-by-7-and-5.exe.config
+C:\Users\User\Desktop\telerik\Divide-by-7-and-5\Divide-by-7-and-5\obj\Debug\Divide-by-7-and-5.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Divide-by-7-and-5\Divide-by-7-and-5\bin\Debug\Divide-by-7-and-5.exe
+C:\Users\User\Desktop\telerik\Divide-by-7-and-5\Divide-by-7-and-5\bin\Debug\Divide-by-7-and-5.pdb
+C:\Users\User\Desktop\telerik\Divide-by-7-and-5\Divide-by-7-and-5\obj\Debug\Divide-by-7-and-5.exe
+C:\Users\User\Desktop\telerik\Divide-by-7-and-5\Divide-by-7-and-5\obj\Debug\Divide-by-7-and-5.pdb

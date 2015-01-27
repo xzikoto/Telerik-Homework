@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Odd-or-Even-Integers\Odd-or-Even-Integers\bin\Debug\Odd-or-Even-Integers.exe.config
+C:\Users\User\Desktop\telerik\Odd-or-Even-Integers\Odd-or-Even-Integers\obj\Debug\Odd-or-Even-Integers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Odd-or-Even-Integers\Odd-or-Even-Integers\bin\Debug\Odd-or-Even-Integers.exe
+C:\Users\User\Desktop\telerik\Odd-or-Even-Integers\Odd-or-Even-Integers\bin\Debug\Odd-or-Even-Integers.pdb
+C:\Users\User\Desktop\telerik\Odd-or-Even-Integers\Odd-or-Even-Integers\obj\Debug\Odd-or-Even-Integers.exe
+C:\Users\User\Desktop\telerik\Odd-or-Even-Integers\Odd-or-Even-Integers\obj\Debug\Odd-or-Even-Integers.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Bits-Exchange\Bits-Exchange\bin\Debug\Bits-Exchange.exe.config
+C:\Users\User\Desktop\telerik\Bits-Exchange\Bits-Exchange\obj\Debug\Bits-Exchange.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Bits-Exchange\Bits-Exchange\bin\Debug\Bits-Exchange.exe
+C:\Users\User\Desktop\telerik\Bits-Exchange\Bits-Exchange\bin\Debug\Bits-Exchange.pdb
+C:\Users\User\Desktop\telerik\Bits-Exchange\Bits-Exchange\obj\Debug\Bits-Exchange.exe
+C:\Users\User\Desktop\telerik\Bits-Exchange\Bits-Exchange\obj\Debug\Bits-Exchange.pdb

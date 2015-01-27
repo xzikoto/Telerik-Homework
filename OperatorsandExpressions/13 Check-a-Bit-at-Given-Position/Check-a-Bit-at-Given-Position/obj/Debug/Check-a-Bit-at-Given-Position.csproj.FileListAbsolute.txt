@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\telerik\Check-a-Bit-at-Given-Position\Check-a-Bit-at-Given-Position\bin\Debug\Check-a-Bit-at-Given-Position.exe.config
+C:\Users\User\Desktop\telerik\13 Check-a-Bit-at-Given-Position\Check-a-Bit-at-Given-Position\bin\Debug\Check-a-Bit-at-Given-Position.exe.config

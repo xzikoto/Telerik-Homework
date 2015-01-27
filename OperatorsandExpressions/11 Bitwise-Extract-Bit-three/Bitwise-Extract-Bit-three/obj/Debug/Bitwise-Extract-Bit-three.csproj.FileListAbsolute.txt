@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\bin\Debug\Bitwise-Extract-Bit-three.exe.config
+C:\Users\User\Desktop\telerik\Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\bin\Debug\Bitwise-Extract-Bit-three.exe
+C:\Users\User\Desktop\telerik\Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\bin\Debug\Bitwise-Extract-Bit-three.pdb
+C:\Users\User\Desktop\telerik\Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\obj\Debug\Bitwise-Extract-Bit-three.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\obj\Debug\Bitwise-Extract-Bit-three.exe
+C:\Users\User\Desktop\telerik\Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\obj\Debug\Bitwise-Extract-Bit-three.pdb
+C:\Users\User\Desktop\telerik\11 Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\bin\Debug\Bitwise-Extract-Bit-three.exe.config
+C:\Users\User\Desktop\telerik\11 Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\obj\Debug\Bitwise-Extract-Bit-three.exe
+C:\Users\User\Desktop\telerik\11 Bitwise-Extract-Bit-three\Bitwise-Extract-Bit-three\obj\Debug\Bitwise-Extract-Bit-three.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Rectangles\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\User\Desktop\telerik\Rectangles\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\User\Desktop\telerik\Rectangles\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\User\Desktop\telerik\Rectangles\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Rectangles\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\User\Desktop\telerik\Rectangles\Rectangles\obj\Debug\Rectangles.pdb

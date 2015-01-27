@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Point-in-a-Circle\Point-in-a-Circle\bin\Debug\Point-in-a-Circle.exe.config
+C:\Users\User\Desktop\telerik\Point-in-a-Circle\Point-in-a-Circle\bin\Debug\Point-in-a-Circle.exe
+C:\Users\User\Desktop\telerik\Point-in-a-Circle\Point-in-a-Circle\bin\Debug\Point-in-a-Circle.pdb
+C:\Users\User\Desktop\telerik\Point-in-a-Circle\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Point-in-a-Circle\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.exe
+C:\Users\User\Desktop\telerik\Point-in-a-Circle\Point-in-a-Circle\obj\Debug\Point-in-a-Circle.pdb

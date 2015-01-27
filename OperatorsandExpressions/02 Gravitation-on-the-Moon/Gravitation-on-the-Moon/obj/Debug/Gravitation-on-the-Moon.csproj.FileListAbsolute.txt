@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Gravitation-on-the-Moon\Gravitation-on-the-Moon\bin\Debug\Gravitation-on-the-Moon.exe.config
+C:\Users\User\Desktop\telerik\Gravitation-on-the-Moon\Gravitation-on-the-Moon\bin\Debug\Gravitation-on-the-Moon.exe
+C:\Users\User\Desktop\telerik\Gravitation-on-the-Moon\Gravitation-on-the-Moon\bin\Debug\Gravitation-on-the-Moon.pdb
+C:\Users\User\Desktop\telerik\Gravitation-on-the-Moon\Gravitation-on-the-Moon\obj\Debug\Gravitation-on-the-Moon.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Gravitation-on-the-Moon\Gravitation-on-the-Moon\obj\Debug\Gravitation-on-the-Moon.exe
+C:\Users\User\Desktop\telerik\Gravitation-on-the-Moon\Gravitation-on-the-Moon\obj\Debug\Gravitation-on-the-Moon.pdb

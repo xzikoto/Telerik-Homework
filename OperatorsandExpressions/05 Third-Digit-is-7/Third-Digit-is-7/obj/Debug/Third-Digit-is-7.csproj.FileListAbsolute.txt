@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\Third-Digit-is-7\Third-Digit-is-7\bin\Debug\Third-Digit-is-7.exe.config
+C:\Users\User\Desktop\telerik\Third-Digit-is-7\Third-Digit-is-7\obj\Debug\Third-Digit-is-7.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Third-Digit-is-7\Third-Digit-is-7\bin\Debug\Third-Digit-is-7.exe
+C:\Users\User\Desktop\telerik\Third-Digit-is-7\Third-Digit-is-7\bin\Debug\Third-Digit-is-7.pdb
+C:\Users\User\Desktop\telerik\Third-Digit-is-7\Third-Digit-is-7\obj\Debug\Third-Digit-is-7.exe
+C:\Users\User\Desktop\telerik\Third-Digit-is-7\Third-Digit-is-7\obj\Debug\Third-Digit-is-7.pdb

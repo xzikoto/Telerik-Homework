@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\telerik\08 Prime-Number-Check\08 Prime-Number-Check\bin\Debug\08 Prime-Number-Check.exe.config
+C:\Users\User\Desktop\telerik\08 Prime-Number-Check\08 Prime-Number-Check\obj\Debug\08 Prime-Number-Check.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\08 Prime-Number-Check\08 Prime-Number-Check\bin\Debug\08 Prime-Number-Check.exe
+C:\Users\User\Desktop\telerik\08 Prime-Number-Check\08 Prime-Number-Check\bin\Debug\08 Prime-Number-Check.pdb
+C:\Users\User\Desktop\telerik\08 Prime-Number-Check\08 Prime-Number-Check\obj\Debug\08 Prime-Number-Check.exe
+C:\Users\User\Desktop\telerik\08 Prime-Number-Check\08 Prime-Number-Check\obj\Debug\08 Prime-Number-Check.pdb
