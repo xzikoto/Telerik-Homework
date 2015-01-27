@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Bank-Account-Data\Bank-Account-Data\bin\Debug\Bank-Account-Data.exe.config
+C:\Users\User\Desktop\telerik\Bank-Account-Data\Bank-Account-Data\obj\Debug\Bank-Account-Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Bank-Account-Data\Bank-Account-Data\bin\Debug\Bank-Account-Data.exe
+C:\Users\User\Desktop\telerik\Bank-Account-Data\Bank-Account-Data\bin\Debug\Bank-Account-Data.pdb
+C:\Users\User\Desktop\telerik\Bank-Account-Data\Bank-Account-Data\obj\Debug\Bank-Account-Data.exe
+C:\Users\User\Desktop\telerik\Bank-Account-Data\Bank-Account-Data\obj\Debug\Bank-Account-Data.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\11.Bank-Account-Data\Bank-Account-Data\bin\Debug\Bank-Account-Data.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\11.Bank-Account-Data\Bank-Account-Data\obj\Debug\Bank-Account-Data.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\11.Bank-Account-Data\Bank-Account-Data\obj\Debug\Bank-Account-Data.pdb

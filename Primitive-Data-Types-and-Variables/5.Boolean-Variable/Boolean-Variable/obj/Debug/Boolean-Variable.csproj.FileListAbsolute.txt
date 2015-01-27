@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\telerik\Boolean-Variable\Boolean-Variable\bin\Debug\Boolean-Variable.exe.config
+C:\Users\User\Desktop\telerik\Boolean-Variable\Boolean-Variable\obj\Debug\Boolean-Variable.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Boolean-Variable\Boolean-Variable\bin\Debug\Boolean-Variable.exe
+C:\Users\User\Desktop\telerik\Boolean-Variable\Boolean-Variable\bin\Debug\Boolean-Variable.pdb
+C:\Users\User\Desktop\telerik\Boolean-Variable\Boolean-Variable\obj\Debug\Boolean-Variable.exe
+C:\Users\User\Desktop\telerik\Boolean-Variable\Boolean-Variable\obj\Debug\Boolean-Variable.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\5.Boolean-Variable\Boolean-Variable\bin\Debug\Boolean-Variable.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\5.Boolean-Variable\Boolean-Variable\obj\Debug\Boolean-Variable.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\5.Boolean-Variable\Boolean-Variable\obj\Debug\Boolean-Variable.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\5.Boolean-Variable\Boolean-Variable\bin\Debug\Boolean-Variable.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\5.Boolean-Variable\Boolean-Variable\bin\Debug\Boolean-Variable.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\5.Boolean-Variable\Boolean-Variable\obj\Debug\Boolean-Variable.csprojResolveAssemblyReference.cache

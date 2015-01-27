@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\telerik\Float-or-Double\Float-or-Double\bin\Debug\Float-or-Double.exe.config
+C:\Users\User\Desktop\telerik\Float-or-Double\Float-or-Double\obj\Debug\Float-or-Double.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Float-or-Double\Float-or-Double\bin\Debug\Float-or-Double.exe
+C:\Users\User\Desktop\telerik\Float-or-Double\Float-or-Double\bin\Debug\Float-or-Double.pdb
+C:\Users\User\Desktop\telerik\Float-or-Double\Float-or-Double\obj\Debug\Float-or-Double.exe
+C:\Users\User\Desktop\telerik\Float-or-Double\Float-or-Double\obj\Debug\Float-or-Double.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\2.Float-or-Double\Float-or-Double\bin\Debug\Float-or-Double.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\2.Float-or-Double\Float-or-Double\obj\Debug\Float-or-Double.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\2.Float-or-Double\Float-or-Double\obj\Debug\Float-or-Double.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\2.Float-or-Double\Float-or-Double\bin\Debug\Float-or-Double.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\2.Float-or-Double\Float-or-Double\bin\Debug\Float-or-Double.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\2.Float-or-Double\Float-or-Double\obj\Debug\Float-or-Double.csprojResolveAssemblyReference.cache

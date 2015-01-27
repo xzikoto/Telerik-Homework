@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Strings-and-Objects\Strings-and-Objects\bin\Debug\Strings-and-Objects.exe.config
+C:\Users\User\Desktop\telerik\Strings-and-Objects\Strings-and-Objects\bin\Debug\Strings-and-Objects.exe
+C:\Users\User\Desktop\telerik\Strings-and-Objects\Strings-and-Objects\bin\Debug\Strings-and-Objects.pdb
+C:\Users\User\Desktop\telerik\Strings-and-Objects\Strings-and-Objects\obj\Debug\Strings-and-Objects.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Strings-and-Objects\Strings-and-Objects\obj\Debug\Strings-and-Objects.exe
+C:\Users\User\Desktop\telerik\Strings-and-Objects\Strings-and-Objects\obj\Debug\Strings-and-Objects.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\6.Strings-and-Objects\Strings-and-Objects\bin\Debug\Strings-and-Objects.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\6.Strings-and-Objects\Strings-and-Objects\obj\Debug\Strings-and-Objects.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\6.Strings-and-Objects\Strings-and-Objects\obj\Debug\Strings-and-Objects.pdb

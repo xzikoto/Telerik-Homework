@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\telerik\Declare-Variables\Declare-Variables\bin\Debug\Declare-Variables.exe.config
+C:\Users\User\Desktop\telerik\Declare-Variables\Declare-Variables\bin\Debug\Declare-Variables.exe
+C:\Users\User\Desktop\telerik\Declare-Variables\Declare-Variables\bin\Debug\Declare-Variables.pdb
+C:\Users\User\Desktop\telerik\Declare-Variables\Declare-Variables\obj\Debug\Declare-Variables.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Declare-Variables\Declare-Variables\obj\Debug\Declare-Variables.exe
+C:\Users\User\Desktop\telerik\Declare-Variables\Declare-Variables\obj\Debug\Declare-Variables.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\1.Declare-Variables\Declare-Variables\bin\Debug\Declare-Variables.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\1.Declare-Variables\Declare-Variables\obj\Debug\Declare-Variables.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\1.Declare-Variables\Declare-Variables\obj\Debug\Declare-Variables.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\1.Declare-Variables\Declare-Variables\bin\Debug\Declare-Variables.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\1.Declare-Variables\Declare-Variables\bin\Debug\Declare-Variables.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\1.Declare-Variables\Declare-Variables\obj\Debug\Declare-Variables.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Iscosceles-Triangle\Iscosceles-Triangle\bin\Debug\Iscosceles-Triangle.exe.config
+C:\Users\User\Desktop\telerik\Iscosceles-Triangle\Iscosceles-Triangle\bin\Debug\Iscosceles-Triangle.exe
+C:\Users\User\Desktop\telerik\Iscosceles-Triangle\Iscosceles-Triangle\bin\Debug\Iscosceles-Triangle.pdb
+C:\Users\User\Desktop\telerik\Iscosceles-Triangle\Iscosceles-Triangle\obj\Debug\Iscosceles-Triangle.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Iscosceles-Triangle\Iscosceles-Triangle\obj\Debug\Iscosceles-Triangle.exe
+C:\Users\User\Desktop\telerik\Iscosceles-Triangle\Iscosceles-Triangle\obj\Debug\Iscosceles-Triangle.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\8.Iscosceles-Triangle\Iscosceles-Triangle\bin\Debug\Iscosceles-Triangle.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\8.Iscosceles-Triangle\Iscosceles-Triangle\obj\Debug\Iscosceles-Triangle.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\8.Iscosceles-Triangle\Iscosceles-Triangle\obj\Debug\Iscosceles-Triangle.pdb

@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\telerik\Exchange-Variable-Values\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe.config
+C:\Users\User\Desktop\telerik\Exchange-Variable-Values\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Exchange-Variable-Values\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe
+C:\Users\User\Desktop\telerik\Exchange-Variable-Values\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.pdb
+C:\Users\User\Desktop\telerik\Exchange-Variable-Values\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.exe
+C:\Users\User\Desktop\telerik\Exchange-Variable-Values\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\9.Exchange-Variable-Values\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\9.Exchange-Variable-Values\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\9.Exchange-Variable-Values\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\9.Exchange-Variable-Values\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\9.Exchange-Variable-Values\Exchange-Variable-Values\bin\Debug\Exchange-Variable-Values.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\9.Exchange-Variable-Values\Exchange-Variable-Values\obj\Debug\Exchange-Variable-Values.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Comparing-Floats\Comparing-Floats\bin\Debug\Comparing-Floats.exe.config
+C:\Users\User\Desktop\telerik\Comparing-Floats\Comparing-Floats\bin\Debug\Comparing-Floats.exe
+C:\Users\User\Desktop\telerik\Comparing-Floats\Comparing-Floats\bin\Debug\Comparing-Floats.pdb
+C:\Users\User\Desktop\telerik\Comparing-Floats\Comparing-Floats\obj\Debug\Comparing-Floats.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Comparing-Floats\Comparing-Floats\obj\Debug\Comparing-Floats.exe
+C:\Users\User\Desktop\telerik\Comparing-Floats\Comparing-Floats\obj\Debug\Comparing-Floats.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\13.Comparing-Floats\Comparing-Floats\bin\Debug\Comparing-Floats.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\13.Comparing-Floats\Comparing-Floats\obj\Debug\Comparing-Floats.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\13.Comparing-Floats\Comparing-Floats\obj\Debug\Comparing-Floats.pdb

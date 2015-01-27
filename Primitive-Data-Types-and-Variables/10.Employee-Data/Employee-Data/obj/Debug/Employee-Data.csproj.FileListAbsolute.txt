@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Employee-Data\Employee-Data\bin\Debug\Employee-Data.exe.config
+C:\Users\User\Desktop\telerik\Employee-Data\Employee-Data\obj\Debug\Employee-Data.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Employee-Data\Employee-Data\bin\Debug\Employee-Data.exe
+C:\Users\User\Desktop\telerik\Employee-Data\Employee-Data\bin\Debug\Employee-Data.pdb
+C:\Users\User\Desktop\telerik\Employee-Data\Employee-Data\obj\Debug\Employee-Data.exe
+C:\Users\User\Desktop\telerik\Employee-Data\Employee-Data\obj\Debug\Employee-Data.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\10.Employee-Data\Employee-Data\bin\Debug\Employee-Data.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\10.Employee-Data\Employee-Data\obj\Debug\Employee-Data.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\10.Employee-Data\Employee-Data\obj\Debug\Employee-Data.pdb

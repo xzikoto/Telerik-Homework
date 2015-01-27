@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Unicode-Character\Unicode-Character\bin\Debug\Unicode-Character.exe.config
+C:\Users\User\Desktop\telerik\Unicode-Character\Unicode-Character\obj\Debug\Unicode-Character.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Unicode-Character\Unicode-Character\bin\Debug\Unicode-Character.exe
+C:\Users\User\Desktop\telerik\Unicode-Character\Unicode-Character\bin\Debug\Unicode-Character.pdb
+C:\Users\User\Desktop\telerik\Unicode-Character\Unicode-Character\obj\Debug\Unicode-Character.exe
+C:\Users\User\Desktop\telerik\Unicode-Character\Unicode-Character\obj\Debug\Unicode-Character.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\4.Unicode-Character\Unicode-Character\bin\Debug\Unicode-Character.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\4.Unicode-Character\Unicode-Character\obj\Debug\Unicode-Character.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\4.Unicode-Character\Unicode-Character\obj\Debug\Unicode-Character.pdb

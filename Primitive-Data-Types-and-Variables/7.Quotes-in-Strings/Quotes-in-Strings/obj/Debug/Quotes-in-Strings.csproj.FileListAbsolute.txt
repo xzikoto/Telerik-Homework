@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\telerik\Quotes-in-Strings\Quotes-in-Strings\bin\Debug\Quotes-in-Strings.exe.config
+C:\Users\User\Desktop\telerik\Quotes-in-Strings\Quotes-in-Strings\obj\Debug\Quotes-in-Strings.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\telerik\Quotes-in-Strings\Quotes-in-Strings\bin\Debug\Quotes-in-Strings.exe
+C:\Users\User\Desktop\telerik\Quotes-in-Strings\Quotes-in-Strings\bin\Debug\Quotes-in-Strings.pdb
+C:\Users\User\Desktop\telerik\Quotes-in-Strings\Quotes-in-Strings\obj\Debug\Quotes-in-Strings.exe
+C:\Users\User\Desktop\telerik\Quotes-in-Strings\Quotes-in-Strings\obj\Debug\Quotes-in-Strings.pdb
+C:\Users\User\Desktop\Primitive Data Types and Variables\7.Quotes-in-Strings\Quotes-in-Strings\bin\Debug\Quotes-in-Strings.exe.config
+C:\Users\User\Desktop\Primitive Data Types and Variables\7.Quotes-in-Strings\Quotes-in-Strings\obj\Debug\Quotes-in-Strings.exe
+C:\Users\User\Desktop\Primitive Data Types and Variables\7.Quotes-in-Strings\Quotes-in-Strings\obj\Debug\Quotes-in-Strings.pdb
